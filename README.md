@@ -1,27 +1,42 @@
-## Hi there 👋
+## Hi, I'm Taabeer👋
 
-My name is Taabeer, I'm a Computer Science student at Barnard College of Columbia University!
+🎓 Sophomore at Barnard College of Columbia University studying Computer Science
 
-- 💬 Tech stack: Java, Python, C, Juptyer Notebooks, Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, Keras, Seaborn, SciPy
-- 📫 How to reach me: Email me at taabeer.s@columbia.edu, my Linkedin is also attached to my profile!
-- 😄 Pronouns: she/her
+I’m passionate about combining machine learning, probabilistic modeling, and innovative web development to tackle complex challenges. Whether it’s optimizing customer campaigns or creating user-friendly applications, I thrive at the intersection of technology and creativity.
 
-⚡ Key Projects:
+🎯 Featured Project: Surprise Gift Campaign Analysis at Estee Lauder
 
-Recipe Web Application: https://github.com/xinyiluo448/COMS4111-BestRecipes/
-Developed a full-stack web application using Flask, enabling:
+What I Did: Designed and implemented an advanced analysis framework to evaluate marketing campaigns at The Estée Lauder Companies.
 
-User account creation and session management with role-based permissions for recipe interactions, including creation, claiming, deletion, likes, and reviews.
-Integration of a third-party Recipe API, populating a PostgreSQL database hosted on Google Cloud Platform (GCP).
-Efficient data manipulation via SQLAlchemy and execution of raw SQL queries.
-This project combines backend expertise, third-party API integration, and database management to deliver a dynamic, user-centric recipe platform.
+Key Features:
+Developed a Bayesian Regression Discontinuity Design to quantify the impact of surprise gift campaigns on customer spending.
+Used NumPyro for Markov Chain Monte Carlo (MCMC) probabilistic modeling, generating credible intervals to assess ROI.
+Collaborated with senior data scientists to deliver actionable insights, supporting strategic decision-making.
+Tools: Python, NumPyro, Bayesian Statistics
+Learnings: Gained expertise in probabilistic modeling, customer behavior analysis, and data-driven marketing strategies.
+👉 Curious? See the project here! https://github.com/estee-lauder-1a/ai-studio-project
 
-Surprise Gift Campaign Analysis at Estée Lauder: https://github.com/estee-lauder-1a/ai-studio-project
+🚀 Projects
+Recipe Web Application
+What I Did: Built a full-stack web application focused on user experience and efficient data management.
+Key Features:
 
-As an Artificial Intelligence Studio Fellow at The Estée Lauder Companies, I worked on analyzing the impact of marketing campaigns through advanced probabilistic modeling:
+User account creation and session management with role-based permissions for recipe creation, claiming, deletion, and interactions (likes and reviews).
+Integrated a third-party Recipe API to populate a PostgreSQL database hosted on Google Cloud Platform (GCP).
+Utilized SQLAlchemy for raw SQL queries, ensuring efficient data manipulation.
+Tools: Flask, PostgreSQL, Google Cloud, SQLAlchemy
+Learnings: Enhanced full-stack development skills and gained experience in API integration and cloud-hosted database management.
 
-Designed and implemented Bayesian Regression Discontinuity Design to evaluate surprise gift campaigns on customer spending.
-Leveraged NumPyro for Markov Chain Monte Carlo (MCMC) modeling, providing credible intervals to assess campaign ROI and inform strategic decisions.
-Collaborated closely with senior data scientists, delivering data-driven insights to optimize marketing strategies.
-This project showcases expertise in Bayesian statistics, probabilistic programming, and practical applications of AI/ML in business settings.
+👉 Want to see more? Check it out here! https://github.com/xinyiluo448/COMS4111-BestRecipes/
 
+🛠 Tech Stack
+Languages: Java, C, Python
+Frameworks & Tools: Flask, TensorFlow, SQLAlchemy, NumPyro
+Databases: PostgreSQL, MySQL
+Cloud Platforms: Google Cloud Platform (GCP)
+
+📫 How to Reach Me
+Email: taabeer.s@columbia.edu
+LinkedIn: linkedin.com/in/taabeer-s
+
+✨ Fun Fact: When I’m not coding, I love trying out bakeries around New York City. My current favorite is La Cabra (order the pain suisse and matcha!)
