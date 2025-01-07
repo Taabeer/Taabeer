@@ -32,7 +32,7 @@ Key Features:
 🛠 Tech Stack
 - Languages: Java, C, Python
 - Frameworks & Tools: Flask, TensorFlow, SQLAlchemy, NumPyro
-- Databases: PostgreSQL, MySQL
+- Databases: PostgreSQL, SQLAlchemy
 - Cloud Platforms: Google Cloud Platform (GCP)
 
 📫 How to Reach Me
