@@ -1,6 +1,6 @@
 ## Hi, I'm Taabeer👋
 
-🎓 Sophomore at Barnard College of Columbia University studying Computer Science
+🎓 Junior at Barnard College of Columbia University studying Computer Science
 
 I’m passionate about combining machine learning, probabilistic modeling, and innovative web development to tackle complex challenges. Whether it’s optimizing customer campaigns or creating user-friendly applications, I thrive at the intersection of technology and creativity.
 
